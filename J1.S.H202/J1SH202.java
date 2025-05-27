@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class J1SH202 {
 
-    final public static Scanner sc = new Scanner(System.in);
+    public static final Scanner sc = new Scanner(System.in);
 
     //check user input string
     public static String checkInputString(String mess) {
